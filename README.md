@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/hellolittlewei" target="_blank">
-		<img src="./assets/header.svg" width="800" height="400">
+		<img src="https://github.com/hellolittlewei/hellolittlewei/blob/master/assets/header.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
@@ -70,37 +70,3 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=ffffff)](https://ceph.io/)
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&theme=react&hide_border=false" alt="yangchuansheng" width=49.8% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangchuansheng&theme=react" alt="yangchuansheng" width=49.8% /></span>
-
-<table><tr><td valign="top">
-
-### My project
-<!-- project starts -->
-* [一条命令部署 k8s 高可用集群](https://github.com/fanux/sealos)
-* [Kubernetes 知识图谱](https://github.com/yangchuansheng/k8s-knowledge)
-* [Linux 和 MacOS 设备智能分流方案](https://github.com/yangchuansheng/love-gfw)
-<!-- project ends -->
-More on [sealyun.com](https://sealyun.com/)
-</td><td valign="top">
-
-### My blog
-<!-- blog starts -->
-* [kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/)
-* [Docker 镜像制作系列](https://icloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
-* [Linux Cgroup 入门系列](https://icloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
-* [Linux Capabilities 入门系列](https://icloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
-<!-- blog ends -->
-More on [icloudnative.io](https://icloudnative.io/)
-</td><td valign="top">
-
-### My ebook
-<!-- ebook starts -->
-* [Envoy 中文指南 - 从入门到实践进阶手册](https://github.com/yangchuansheng/envoy-handbook)
-* [Prometheus 中文文档](https://icloudnative.io/prometheus/)
-* 数据中心的 BGP...即将上线
-<!-- ebook ends -->
-</td></tr></table>
-
-👉 [icloudnative.io](https://icloudnative.io/)
