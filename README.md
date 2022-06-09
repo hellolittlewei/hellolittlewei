@@ -28,7 +28,6 @@
 
 [comment]: <> (</div>)
 
-or you can follow my Twitter and Github:
 
 [comment]: <> ([![Twitter: ThaiiBraga]&#40;https://img.shields.io/twitter/follow/CarsonYangk8s?style=social&#41;]&#40;https://twitter.com/CarsonYangk8s&#41;)
 
