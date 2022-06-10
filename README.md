@@ -21,7 +21,9 @@
 [![](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
 [![](https://img.shields.io/badge/IDE-Goland-black?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-### 技能
+[![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)](https://notion.so)
+
+### Code & Skills
 
 ![](https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,docker,linux,ansible,cloudflare,css,github,go,md)
 
