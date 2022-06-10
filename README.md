@@ -31,5 +31,5 @@
 &ensp;&ensp;[![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 &ensp;&ensp;[![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
-### &ensp;鸣谢
-[![](https://data.jsdelivr.com/v1/package/gh/hellolittlewei/hellolittlewei/badge)](https://www.jsdelivr.com/package/gh/hellolittlewei/hellolittlewei)
+### &ensp;&ensp;鸣谢
+&ensp;&ensp;[![](https://data.jsdelivr.com/v1/package/gh/hellolittlewei/hellolittlewei/badge)](https://www.jsdelivr.com/package/gh/hellolittlewei/hellolittlewei)
