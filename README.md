@@ -4,11 +4,15 @@
 		<img src="https://github.com/hellolittlewei/hellolittlewei/blob/master/assets/header.svg" width="800" height="400">
 	</a>
 	<br>
-    <>
 </div>
 
+
 <div align="center">
-    <img src="https://github.com/hellolittlewei/hellolittlewei/blob/master/assets/gopher.gif" width="26px">
+	<br>
+	<a href="https://github.com/hellolittlewei" target="_blank">
+		<img src="https://github.com/hellolittlewei/hellolittlewei/blob/master/assets/gopher.gif" width="26px">
+	</a>
+	<br>
 </div>
 
 ### 工具
