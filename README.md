@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)](https://notion.so)
 
-### Code & Skills
+### 技能
 
 ![](https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,docker,linux,ansible,cloudflare,css,github,go,md)
 
